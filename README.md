@@ -1,1 +1,1 @@
-# Local-AI-Assistant
+# Local AI Assistant
